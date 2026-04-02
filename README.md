@@ -1,7 +1,5 @@
 # RebootQuest
 
----
-
 <details>
 <summary>Q1. AI 모델 비교 분석</summary>
 
@@ -59,25 +57,23 @@
 
 > \*\*\*\* (실제 실행 후 결과 이미지를 여기에 첨부하세요)
 
----
-
 </details>
 
 <details>
 <summary>Q2. RAG 시스템 웹 구축</summary>
 
-작성 중
+작성 예정
 
 </details>
 <details>
 <summary>Q3. 웹사이트 완성 프로젝트</summary>
 
-작성 중
+작성 예정
 
 </details>
 <details>
 <summary>Q4. 인터넷 뱅킹 설계 및 구현</summary>
 
-작성 중
+작성 예정
 
 </details>
