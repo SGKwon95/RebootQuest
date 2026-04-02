@@ -61,13 +61,23 @@
 
 ---
 
-## 6. 결론 및 고찰
+</details>
 
-분석 결과, **Random Forest** 모델이 전반적인 지표에서 우수한 성능을 보였습니다.
+<details>
+<summary>Q2. RAG 시스템 웹 구축</summary>
 
-- 대출 데이터의 복잡한 비선형 패턴을 트리 구조가 효과적으로 학습한 것으로 판단됩니다.
-- 하지만 실제 서비스 환경(Back-end)에 배포할 때는 모델의 추론 속도와 해석 가능성을 고려하여, 성능 차이가 크지 않다면 가벼운 **Logistic Regression**을 선택하는 전략도 고려해 볼 수 있습니다.
+작성 중
 
----
+</details>
+<details>
+<summary>Q3. 웹사이트 완성 프로젝트</summary>
+
+작성 중
+
+</details>
+<details>
+<summary>Q4. 인터넷 뱅킹 설계 및 구현</summary>
+
+작성 중
 
 </details>
