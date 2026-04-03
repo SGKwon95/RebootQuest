@@ -79,7 +79,7 @@
 
 </details>
 <details>
-<summary>🖥 프로메테우스(Prometheus) 서버</summary>
+<summary>[26.04.02] 🖥 프로메테우스(Prometheus) 서버</summary>
 
 **프로메테우스(Prometheus)** 는 사운드클라우드(SoundCloud)에서 만든 **오픈소스 모니터링 및 알람 시스템**입니다. 현재는 쿠버네티스(Kubernetes) 환경의 표준 모니터링 도구로 자리 잡았습니다.
 
@@ -122,7 +122,7 @@
 
 </details>
 <details>
-<summary>👩‍💻 프로메테우스(Prometheus) 에이전트</summary>
+<summary>[26.04.01] 👩‍💻 프로메테우스(Prometheus) 에이전트</summary>
 
 # 프로메테우스(Prometheus) 에이전트
 
