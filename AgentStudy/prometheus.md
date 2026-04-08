@@ -2,8 +2,8 @@
 
 <details>
 <summary>[26.04.07] PromQL(Prometheus Query Language)</summary>
-
-PromQL(Prometheus Query Language)은 프로메테우스의 시계열 데이터를 조회하고 분석하기 위한 핵심 언어입니다. 관계형 데이터베이스의 SQL과는 구조가 완전히 다르기 때문에, 기본 개념을 정확히 잡는 것이 중요합니다.
+<br>
+PromQL(Prometheus Query Language)은 프로메테우스의 시계열 데이터를 조회하고 분석하기 위한 핵심 언어입니다.
 
 ---
 
