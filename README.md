@@ -65,7 +65,7 @@
 <details>
 <summary>Q2. RAG 시스템 웹 구축</summary>
 
-작성 예정
+[Git Repository](https://github.com/SGKwon95/OmniDocs)
 
 </details>
 <details>
